@@ -49,9 +49,4 @@ Test
 ```cd tests```
 ```make```
 
-TODO
-====
 
-* Add sensors and their detection range
-* Prolog rules to test every constraints
-* Find why image loading kills CPU
